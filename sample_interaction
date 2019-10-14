@@ -1,0 +1,77 @@
+./rule_parsing_hw computergram 
+vp --> 
+     vb
+     adj
+vp --> 
+     vt
+     np
+s --> 
+     np
+     vp
+np --> 
+     det
+     n
+det --> 
+     [the]
+det --> 
+     [a]
+det --> 
+     [twenty]
+n1 --> 
+     [computer]
+n --> 
+     [computer]
+n --> 
+     [pounds]
+vb --> 
+     [is]
+vt1 --> 
+     [costs]
+vt --> 
+     [costs]
+adj --> 
+     [down]
+adj --> 
+     [cheap]
+number of rules was 15
+now going to show rules with specific number of dtrs
+rules with how many dtrs? (enter 0 to quit program)
+2
+vp --> 
+     vb
+     adj
+vp --> 
+     vt
+     np
+s --> 
+     np
+     vp
+np --> 
+     det
+     n
+rules with how many dtrs? (enter 0 to quit program)
+1
+det --> 
+     [the]
+det --> 
+     [a]
+det --> 
+     [twenty]
+n1 --> 
+     [computer]
+n --> 
+     [computer]
+n --> 
+     [pounds]
+vb --> 
+     [is]
+vt1 --> 
+     [costs]
+vt --> 
+     [costs]
+adj --> 
+     [down]
+adj --> 
+     [cheap]
+rules with how many dtrs? (enter 0 to quit program)
+0
